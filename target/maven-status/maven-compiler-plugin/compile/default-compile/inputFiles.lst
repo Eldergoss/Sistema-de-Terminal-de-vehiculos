@@ -1,0 +1,15 @@
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/App.java
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/controller/DestinoController.java
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/controller/MovimientoController.java
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/controller/UnidadController.java
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/database/Database.java
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/database/DatabaseInitializer.java
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/model/Destino.java
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/model/Movimiento.java
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/model/Unidad.java
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/repository/DestinoRepository.java
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/repository/MovimientoRepository.java
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/repository/UnidadRepository.java
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/service/DestinoService.java
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/service/MovimientoService.java
+/home/david/Proyectos/terminal02/src/main/java/com/terminal02/service/UnidadService.java

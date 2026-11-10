@@ -1,0 +1,15 @@
+com/terminal02/model/Unidad.class
+com/terminal02/service/DestinoService.class
+com/terminal02/database/DatabaseInitializer.class
+com/terminal02/controller/DestinoController.class
+com/terminal02/controller/UnidadController.class
+com/terminal02/repository/UnidadRepository.class
+com/terminal02/model/Destino.class
+com/terminal02/repository/DestinoRepository.class
+com/terminal02/controller/MovimientoController.class
+com/terminal02/App.class
+com/terminal02/repository/MovimientoRepository.class
+com/terminal02/service/UnidadService.class
+com/terminal02/database/Database.class
+com/terminal02/service/MovimientoService.class
+com/terminal02/model/Movimiento.class
